@@ -1,0 +1,19 @@
+exp-formula:
+  wins: 200
+  kills: 10
+  final_kills: 35
+  beds_destroyed: 80
+
+levels:
+  1-10:
+    rankup-cost: 100
+    sign: '&7{level}✩'
+  11-50:
+    rankup-cost: 200
+    sign: '&f{level}✩'
+  51-100:
+    rankup-cost: 300
+    sign: '&a{level}✩'
+  101:
+    rankup-cost: 500
+    sign: '&b{level}✩'

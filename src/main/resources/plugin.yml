@@ -1,0 +1,9 @@
+name: MBLevels
+version: 1.0
+main: com.YuLuoQAQ.MBLevels.MBLevels
+api-version: 1.8
+author: YuLuoQAQ
+commands:
+  bwlevel:
+    description: Reload the level plugin configuration
+    usage: /bwlevel reload
