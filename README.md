@@ -1,4 +1,6 @@
-# 一个简单的起床战争等级实现(MBedwars) A simple BedWars level plugin
+# 一个简单的起床战争等级实现(MBedwars) 
+A simple BedWars level plugin For MBedwars
+
 依赖(Dependencies)：MBedwars, PlaceholderAPI
 
 注意：由于是为我自己的服务器编写，所以这里只允许OP执行插件重载命令
