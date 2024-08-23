@@ -10,18 +10,18 @@ A simple BedWars level plugin For MBedwars
 # 命令 Commands
 /bwlevel reload
 
-# Palceholders
-%bwlevel_sign%: Level display (Like &7{level}✩, you can change it in config.yml.)
+# Placeholders
+<code>%bwlevel_sign</code>: Level display (Like &7{level}✩, you can change it in config.yml.)
 
-%bwlevel_level%: Current level
+<code>%bwlevel_level%</code>: Current level
 
-%bwlevel_next%: Current experience (not total experience)
+<code>%bwlevel_next%</code>: Current experience (not total experience)
 
-%bwlevel_nextexp%: Experience required to advance to the next level
+<code>%bwlevel_nextexp%</code>: Experience required to advance to the next level
 
-%bwlevel_rate%: Progress to the next level (percentage)
+<code>%bwlevel_rate%</code>: Progress to the next level (percentage)
 
-%bwlevel_exp%: All the experience possessed
+<code>%bwlevel_exp%</code>: All the experience possessed
 
 # 警告 Warnings
 1. Placeholders.java 第95、96行，若第一等级不是100经验升级，需要自行更改 (On lines 95 and 96, if the first level does not require 100 experience to upgrade, it needs to be changed by yourself.)
